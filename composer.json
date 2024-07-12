@@ -5,6 +5,18 @@
     "license": [
         "GPL-2.0-or-later"
     ],
+    "keywords": [
+        "TYPO3",
+        "extension",
+        "csp",
+        "nonce"
+    ],
+    "authors": [
+        {
+            "name": "Sebastian Müller",
+            "email": "sebastian.mueller@elementare-teilchen.de"
+        }
+    ],
     "require": {
         "contentblocks/content-blocks": "*",
         "typo3/cms-core": "^12.0"
