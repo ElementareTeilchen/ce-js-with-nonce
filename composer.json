@@ -1,0 +1,22 @@
+{
+    "name": "elementareteilchen/ce-js-with-nonce",
+    "description": "Adds a new content element for inline javascript which will get a nonce for CSP check",
+    "type": "typo3-cms-extension",
+    "license": [
+        "GPL-2.0-or-later"
+    ],
+    "require": {
+        "contentblocks/content-blocks": "*",
+        "typo3/cms-core": "^12.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Elementareteilchen\\CeJsWithNonce\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "ce_js_with_nonce"
+        }
+    }
+}
