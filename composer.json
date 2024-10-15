@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "contentblocks/content-blocks": "*",
+        "friendsoftypo3/content-blocks": "*",
         "typo3/cms-core": "^12.0"
     },
     "autoload": {
