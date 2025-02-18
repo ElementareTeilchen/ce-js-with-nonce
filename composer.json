@@ -30,5 +30,6 @@
         "typo3/cms": {
             "extension-key": "ce_js_with_nonce"
         }
-    }
+    },
+    "abandoned": "elementareteilchen/ce-with-nonce"
 }
